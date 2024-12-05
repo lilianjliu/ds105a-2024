@@ -10,121 +10,126 @@
 text {
    text-rendering: optimizeLegibility;
 }
-#pjuw595 .plot-title {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 16.0px;
-   font-weight: bold;
-   font-style: normal;   
+#p3pVxdi .plot-title {
+fill: #474747;
+font-weight: bold;
+   font-style: normal;font-family: Helvetica;
+font-size: 16.0px;
+
 }
-#pjuw595 .plot-subtitle {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 14.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .plot-subtitle {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 14.0px;
+
 }
-#pjuw595 .plot-caption {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 10.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .plot-caption {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 10.0px;
+
 }
-#pjuw595 .legend-title {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 15.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .hyperlink-element {
+fill: #118ed8;
+font-weight: normal;
+   font-style: normal;
 }
-#pjuw595 .legend-item {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .legend-title {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 15.0px;
+
 }
-#pjuw595 .axis-title-x {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 15.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .legend-item {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#pjuw595 .axis-text-x {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .axis-title-x {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 15.0px;
+
 }
-#dOJ16o0 .axis-tooltip-text-x {
-   fill: #ffffff;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .axis-text-x {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#pjuw595 .axis-title-y {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 15.0px;
-   font-weight: normal;
-   font-style: normal;   
+#dgguyyV .axis-tooltip-text-x {
+fill: #ffffff;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#pjuw595 .axis-text-y {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .axis-title-y {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 15.0px;
+
 }
-#dOJ16o0 .axis-tooltip-text-y {
-   fill: #ffffff;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .axis-text-y {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#pjuw595 .facet-strip-text-x {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#dgguyyV .axis-tooltip-text-y {
+fill: #ffffff;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#pjuw595 .facet-strip-text-y {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .facet-strip-text-x {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#dOJ16o0 .tooltip-text {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: normal;
-   font-style: normal;   
+#p3pVxdi .facet-strip-text-y {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#dOJ16o0 .tooltip-title {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: bold;
-   font-style: normal;   
+#dgguyyV .tooltip-text {
+fill: #474747;
+font-weight: normal;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
-#dOJ16o0 .tooltip-label {
-   fill: #474747;
-   font-family: Helvetica;
-   font-size: 13.0px;
-   font-weight: bold;
-   font-style: normal;   
+#dgguyyV .tooltip-title {
+fill: #474747;
+font-weight: bold;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
+}
+#dgguyyV .tooltip-label {
+fill: #474747;
+font-weight: bold;
+   font-style: normal;font-family: Helvetica;
+font-size: 13.0px;
+
 }
 
   </style>
-  <g id="pjuw595">
+  <g id="p3pVxdi">
     <path fill-rule="evenodd" fill="rgb(255,255,255)" fill-opacity="1.0" d="M1.4999999999999432 0.0 L1.4999999999999432 468.0 L698.5 468.0 L698.5 0.0 Z">
     </path>
     <g transform="translate(30.999999999999943 160.5 ) ">
@@ -138,7 +143,7 @@ text {
           </g>
         </g>
       </g>
-      <g clip-path="url(#c9O18Mo)" clip-bounds-jfx="[rect (103.20054209256125, 22.0), (179.2664859691463, 173.0)]">
+      <g clip-path="url(#cAeZckc)" clip-bounds-jfx="[rect (103.20054209256125, 22.0), (179.2664859691463, 173.0)]">
         <g transform="translate(103.20054209256125 22.0 ) ">
           <g>
             <g>
@@ -216,19 +221,19 @@ text {
           </g>
         </g>
         <defs>
-          <clipPath id="crgqpE2">
+          <clipPath id="cqAr6wn">
             <rect x="103.20054209256125" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="cjsuIJF">
+          <clipPath id="cfNnje9">
             <rect x="103.20054209256125" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="c9O18Mo">
+          <clipPath id="cAeZckc">
             <rect x="103.20054209256125" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
@@ -337,7 +342,7 @@ text {
           </g>
         </g>
       </g>
-      <g clip-path="url(#cbyzTDm)" clip-bounds-jfx="[rect (292.46702806170754, 22.0), (179.2664859691463, 173.0)]">
+      <g clip-path="url(#cIyM5sK)" clip-bounds-jfx="[rect (292.46702806170754, 22.0), (179.2664859691463, 173.0)]">
         <g transform="translate(292.46702806170754 22.0 ) ">
           <g>
             <g>
@@ -415,19 +420,19 @@ text {
           </g>
         </g>
         <defs>
-          <clipPath id="ccCoxxR">
+          <clipPath id="cLXXFTU">
             <rect x="292.46702806170754" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="c83qNlp">
+          <clipPath id="chowYi9">
             <rect x="292.46702806170754" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="cbyzTDm">
+          <clipPath id="cIyM5sK">
             <rect x="292.46702806170754" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
@@ -494,7 +499,7 @@ text {
           </g>
         </g>
       </g>
-      <g clip-path="url(#c4QO5op)" clip-bounds-jfx="[rect (481.7335140308538, 22.0), (179.2664859691463, 173.0)]">
+      <g clip-path="url(#cmMoXxl)" clip-bounds-jfx="[rect (481.7335140308538, 22.0), (179.2664859691463, 173.0)]">
         <g transform="translate(481.7335140308538 22.0 ) ">
           <g>
             <g>
@@ -572,19 +577,19 @@ text {
           </g>
         </g>
         <defs>
-          <clipPath id="cPI42g0">
+          <clipPath id="ckvl33o">
             <rect x="481.7335140308538" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="cETDB02">
+          <clipPath id="c60Z5gZ">
             <rect x="481.7335140308538" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="c4QO5op">
+          <clipPath id="cmMoXxl">
             <rect x="481.7335140308538" y="22.0" width="179.2664859691463" height="173.0">
             </rect>
           </clipPath>
@@ -645,7 +650,7 @@ text {
         <tspan></tspan>
       </text>
       <text class="plot-title" y="16.0">
-        <tspan>Cities (outside London) have lower average attainment at age 18</tspan>
+        <tspan>Cities (outside London) have lower average attainment at age 18 </tspan>
       </text>
       <text class="plot-title" y="32.0">
         <tspan>than towns, but similar levels of enrolment in higher education</tspan>
@@ -659,10 +664,10 @@ text {
         <tspan></tspan>
       </text>
       <text class="plot-subtitle" y="14.0">
-        <tspan>Proportion of the 2012 to 2013 GCSE cohort achieving Level 3 qualification at age 18,</tspan>
+        <tspan>Proportion of the 2012 to 2013 GCSE cohort achieving Level 3 qualification at age 18, </tspan>
       </text>
       <text class="plot-subtitle" y="28.0">
-        <tspan>participating in further education or higher education at age 19, by towns and</tspan>
+        <tspan>participating in further education or higher education at age 19, by towns and </tspan>
       </text>
       <text class="plot-subtitle" y="42.0">
         <tspan>cities groupings, England</tspan>
@@ -686,10 +691,10 @@ text {
         <tspan></tspan>
       </text>
       <text class="plot-caption" y="10.0">
-        <tspan>Source: Office for National Statistics analysis using Longitudinal Education Outcomes (LEO),</tspan>
+        <tspan>Source: Office for National Statistics analysis using Longitudinal Education Outcomes (LEO), </tspan>
       </text>
       <text class="plot-caption" y="20.0">
-        <tspan>Department for Education, Index of Multiple Deprivation 2019 from the Department for</tspan>
+        <tspan>Department for Education, Index of Multiple Deprivation 2019 from the Department for </tspan>
       </text>
       <text class="plot-caption" y="30.0">
         <tspan>Levelling Up, Housing and Communities (DLUHC)</tspan>
@@ -701,9 +706,9 @@ text {
         <tspan></tspan>
       </text>
     </g>
-    <path fill="rgb(0,0,0)" fill-opacity="0.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" d="M1.4999999999999432 0.0 L1.4999999999999432 468.0 L698.5 468.0 L698.5 0.0 Z">
+    <path fill="rgb(0,0,0)" fill-opacity="0.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" d="M1.4999999999999432 0.0 L1.4999999999999432 468.0 L698.5 468.0 L698.5 0.0 Z" pointer-events="none">
     </path>
   </g>
-  <g id="dOJ16o0">
+  <g id="dgguyyV">
   </g>
 </svg>
